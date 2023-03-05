@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>circleciecle</servlet-name>
+    <servlet-class>CircleServlet</servlet-class>
+    <init-pattern>
+        <param-name>pi</param-name>
+        <param-value>3.141592</param-value>
+    </init-pattern>    
+</servlet>
